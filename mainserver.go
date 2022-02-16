@@ -28,3 +28,8 @@ func main() {
 		conn.Close()
 	}
 }
+
+//open gitbash do-> go run mainserver.go
+//open cmd
+//type-> telnet localhost 8080
+//(8080 or any other port mentioned in the program)
